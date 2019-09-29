@@ -14,4 +14,6 @@
 `git push origin master`
 
 # learning
-md-mark down
+md: mark down
+- : hyphen
+-m: message ( M flag )
